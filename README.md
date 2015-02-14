@@ -1,4 +1,4 @@
-# Surf Forecaster
+# Stoke
 Little ruby project for scraping surf info from Surfline. More to come. Maybe getting rail-y soon.
 
 Requires these gems:
