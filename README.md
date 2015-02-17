@@ -1,4 +1,6 @@
 # Stoke
+
+[![Join the chat at https://gitter.im/mhelmetag/stoke](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mhelmetag/stoke?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Little ruby project for scraping surf info from Surfline. More to come. Maybe getting rail-y soon.
 
 Requires these gems:
